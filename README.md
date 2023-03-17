@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![index]( https://youdoc.github.io/img/tencent.jpg )]( https://cloud.tencent.com/act/cps/redirect?redirect=2446&cps_key=736e609d66e0ac4e57813316cec6fd0b&from=console )
 
 <p align="center">
@@ -200,3 +201,7 @@ novel-plus -- 父工程
 ## 免责声明
 
 本项目提供的爬虫工具仅用于采集项目初期的测试数据，请勿用于商业盈利。 用户使用本系统从事任何违法违规的事情，一切后果由用户自行承担，作者不承担任何责任。
+=======
+# xiaoshuo
+小说阅读
+>>>>>>> 5dd10c1a453a77a4e2f0f66a5ae60ca0d6c4843a
